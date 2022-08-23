@@ -15,5 +15,5 @@
 <br> • Demografia;
 <br> • Porcentagem populacional de crianças abaixo de 5 anos que estão com soprepeso(FAO);
 <br> • Necessidade média de energia da dieta (kcal/cap/day) FAO;
-<br> • Porcentagem de diabéticos por país.
+<br> • Diabéticos em milhar por país a cada ano.
 ## Referências:
