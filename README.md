@@ -17,3 +17,6 @@
 <br> • Necessidade média de energia da dieta (kcal/cap/day) FAO;
 <br> • Diabéticos em milhar por país a cada ano.
 ## Referências:
+[1] The International Diabetes Federation. Disponível em: <https://idf.org/>. 
+[2] SINISTERRA-LOAIZA, L. et al. Diabetes in Latin America: Prevalence, Complications, and Socio-Economic Impact
+[3] World Bank - Data. Disponível em: <https://data.worldbank.org/>
